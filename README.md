@@ -23,9 +23,9 @@ All visuals are stored in `visuals/`:
 
 ##  Media
 Multimedia walkthroughs can be found in `media/`:
-- `presentation_slides.pptx`: Project overview & findings
-- `demo_walkthrough.mp4`: Screen recording of code + narration
-- `code_audio_explainer.mp3`: Audio explanation of logic
+- `PLACEHOLDERFORPRESENTATIONSLIDES.pptx`: Project overview & findings
+- `PLACEHOLDERFORSCREENRECORDING.mp4`: Screen recording of code + narration
+- `PLACEHOLDERFORAUDIO.mp3`: Audio explanation of logic
 
 ##  How to Run
 1. Clone this repo and open in GitHub Codespace
