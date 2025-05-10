@@ -13,7 +13,10 @@ Analyze a manufacturing defect dataset using advanced machine learning to:
 - **Decision Trees**: interpretable models for defect cause analysis
 - **Random Forests**: robust, high-accuracy classifier with feature importance
 - **Apriori Algorithm**: reveals frequent defect combinations
-- **K-means (optional extension)**: clusters defect types or timestamps
+- **K-means**: clusters defect types or timestamps
+• Data was retrieved using KaggleHub and includes simulated manufacturing defect entries.
+• Visualizations and analysis were performed using tools such as Seaborn, Matplotlib, and Missingno.
+
 
 ##  Visuals
 All visuals are stored in `visuals/`:
@@ -26,6 +29,9 @@ Multimedia walkthroughs can be found in `media/`:
 - `PLACEHOLDERFORPRESENTATIONSLIDES.pptx`: Project overview & findings
 - `PLACEHOLDERFORSCREENRECORDING.mp4`: Screen recording of code + narration
 - `PLACEHOLDERFORAUDIO.mp3`: Audio explanation of logic
+
+## Summary
+This project explores how clustering, classification, and pattern discovery techniques can be applied to improve insights into manufacturing defects, helping identify trends and support quality control decisions.
 
 ##  How to Run
 1. Clone this repo and open in GitHub Codespace
