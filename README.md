@@ -14,8 +14,8 @@ Analyze a manufacturing defect dataset using advanced machine learning to:
 - **Random Forests**: robust, high-accuracy classifier with feature importance
 - **Apriori Algorithm**: reveals frequent defect combinations
 - **K-means**: clusters defect types or timestamps
-• Data was retrieved using KaggleHub and includes simulated manufacturing defect entries.
-• Visualizations and analysis were performed using tools such as Seaborn, Matplotlib, and Missingno.
+**• Data was retrieved using KaggleHub and includes simulated manufacturing defect entries.
+**• Visualizations and analysis were performed using tools such as Seaborn, Matplotlib, and Missingno.
 
 
 ##  Visuals
