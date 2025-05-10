@@ -17,19 +17,6 @@ Analyze a manufacturing defect dataset using advanced machine learning to:
 - **• Data was retrieved using KaggleHub and includes simulated manufacturing defect entries.
 - **• Visualizations and analysis were performed using tools such as Seaborn, Matplotlib, and Missingno.
 
-
-##  Visuals
-All visuals are stored in `visuals/`:
-- Feature importances
-- Confusion matrices
-- Association rule heatmaps
-
-##  Media
-Multimedia walkthroughs can be found in `media/`:
-- `PLACEHOLDERFORPRESENTATIONSLIDES.pptx`: Project overview & findings
-- `PLACEHOLDERFORSCREENRECORDING.mp4`: Screen recording of code + narration
-- `PLACEHOLDERFORAUDIO.mp3`: Audio explanation of logic
-
 ## Summary
 This project explores how clustering, classification, and pattern discovery techniques can be applied to improve insights into manufacturing defects, helping identify trends and support quality control decisions.
 
